@@ -3,7 +3,8 @@
 
 int main()
 {
-	/* Toplamsal sayi tanim : 3 basamakli bir sayinin yüzler basamagindaki rakami onlar ve birler basamagindaki rakama esit olmalidir*/
+	/* Toplamsal sayi tanim : 3 basamakli bir sayinin yüzler basamagindaki rakami onlar ve birler basamagindaki rakamlarinin
+	toplamina esit olmalidir*/
 	 
 	int sayi,a,b,c;
 	
